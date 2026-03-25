@@ -144,7 +144,6 @@ DELETED file=test_folder/newfile.txt
 
 ## 📸 Dashboard Output
 
-*(Add your screenshot here)*
 
 ```text
 Custom FIM: File modified → Level 10 alert
